@@ -1,5 +1,4 @@
-# DMN_SGD
-Learning Smooth Dendrite Morphological Neurons by Stochastic Gradient Descent for Pattern Classification
+# Learning Smooth Dendrite Morphological Neurons by Stochastic Gradient Descent for Pattern Classification
 
 Learning algorithms in the literature for dendrite morphological neurons (DMNs) generally do not employ standard machine learning (ML) methods, such as stochastic gradient descent (SGD), because the morphological operations maximum and minimum are non-differentiable. Notice that using SGD requires calculating the partial derivatives of the loss function with respect to the learnable parameters to obtain the delta rules.
 
