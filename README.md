@@ -8,6 +8,7 @@ Here, we provide the MATLAB codes of our proposed approach. Two demos were prepa
 
 Please cite the following articles:
 1. Wilfrido Gómez-Flores and Humberto Sossa. Learning Smooth Dendrite Morphological Neurons by Stochastic Gradient Descent for Pattern Classification, Neural Networks, in peer-review, 2023.
-2. Wilfrido Gómez-Flores and Humberto Sossa. Smooth Dendrite Morphological Neurons, Neural Networks, vol. 136, pp. 40-53, 2021.
+2. Wilfrido Gómez-Flores and Humberto Sossa. Smooth Dendrite Morphological Neurons, Neural Networks, vol. 136, pp. 40-53, 2021. (https://doi.org/10.1016/j.neunet.2020.12.021)
+
 
 ![picture alt](https://github.com/wgomezf/DMN_SGD/blob/main/dsn.png "DSN")
